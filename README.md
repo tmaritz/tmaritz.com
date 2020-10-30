@@ -2,4 +2,6 @@
 
 Welcome to my site: [tmaritz.com](tmaritz.com)
 
-This repo should not be edited manually. It is managed by a private Hugo repo.
+It's basically a landing page at this point, I may update it in future!
+
+This repo should not be edited manually as it is managed by a private Hugo repo.
