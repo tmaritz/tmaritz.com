@@ -117,6 +117,11 @@
     		$.magnificPopup.close();
     });
 
+/*----------------------------------------------------*/
+/*	Current year for footer
+/*----------------------------------------------------*/
+
+    document.getElementById("year").innerHTML = new Date().getFullYear();
 
 /*----------------------------------------------------*/
 /*	Flexslider
