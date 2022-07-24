@@ -19,12 +19,12 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/toby-wolff-maritz",
+        "url": "https://www.linkedin.com/in/toby-wolff-maritz",
         "className": "f,a fa-linkedin"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/tmaritz",
         "className": "fa fa-github"
       }
     ]
