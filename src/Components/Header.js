@@ -16,7 +16,7 @@ class Header extends Component {
     return (
       <header id="home">
 
-      <nav id="nav-wrap">
+      {/* <nav id="nav-wrap">
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -30,12 +30,12 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
-      </nav>
+      </nav> */}
 
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h3><span>{occupation}</span>, {description}.</h3>
             <hr />
             <ul className="social">
                {networks}
