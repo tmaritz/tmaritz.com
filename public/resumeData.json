@@ -91,34 +91,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "How to leverage continuous learning to deliver better services",
+        "category": "A webinar I presented for Made Tech.",
+        "image": "made_tech_talks-logo.jpg",
+        "url": "https://www.madetech.com/resources/events/how-to-leverage-continuous-learning-to-deliver-better-services/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "New Tab In Group",
+        "category": "A Chrome extension to open a new tab in the current group via keyboard shortcut.",
+        "image": "new_tab_in_group.jpg",
+        "url": "https://github.com/tmaritz/new-tab-in-group"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "category": "This very website!",
+        "image": "resume_website.jpg",
+        "url": "https://github.com/tmaritz/tmaritz.com"
       }
     ]
   },
