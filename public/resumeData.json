@@ -2,20 +2,24 @@
   "main": {
     "name": "Toby Wolff-Maritz",
     "occupation": "Software Engineer",
-    "description": "tech person, and tongmaster",
+    "description": "I primarily work remotely within the tech industry. At Made Tech, I consult, modernise, and deliver tech solutions for the Public Sector.",
     "image": "profile_pic.jpg",
-    "bio": "I'm a generalist technology professional who believes in using the right tools for the job. Throughout my 12 years in tech, I've worked across Aerospace, Retail, Finance, Law, Digital, and Defence. My journey started in IT Support then transitioned to leading brilliant Software teams building safety-critical systems. At Made Tech, I consult, modernise, and deliver tech solutions for the Public Sector.",
+    "bio": "I'm a generalist technology professional who believes in using the right tools for the job. Throughout my 12 years in tech, I've worked across Aerospace, Retail, Finance, Law, Digital, and Defence. My journey started in IT Support then transitioned to leading brilliant Software teams building safety-critical systems.",
     "contactmessage": "Feel free to reach out to me here.",
     "email": "hello@wolffmaritz.com",
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
+      "city": "Bristol",
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
+    "employer": {
+      "name": "Made Tech",
+      "url": "https://www.madetech.com/"
+    },
     "website": "http://www.tmaritz.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "linkedin",
