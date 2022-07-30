@@ -9,10 +9,7 @@
     "email": "hello@wolffmaritz.com",
     "phone": "555-555-5555",
     "address": {
-      "street": "(Your Street)",
-      "city": "Bristol",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Bristol"
     },
     "employer": {
       "name": "Made Tech",
@@ -45,15 +42,15 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
+        "company": "Made Tech",
+        "title": "Senior Software Engineer",
+        "years": "August 2020 - Present",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
+        "company": "MBDA",
+        "title": "Software Project Lead",
+        "years": "September 2017 - August 2020",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
