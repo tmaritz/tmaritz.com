@@ -31,10 +31,15 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "The Robert Gordon University?",
+        "school": "AWS",
+        "degree": "Developer - Associate",
+        "graduated": "November 2020",
+        "description": "Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices."
+      },
+      {
+        "school": "The Robert Gordon University",
         "degree": "Bsc(Hons) in Computer Science",
         "graduated": "April 2013",
         "description": "Theory, design, development, and application of computers and computational systems"
@@ -42,16 +47,31 @@
     ],
     "work": [
       {
-        "company": "Made Tech",
+        "company": "Made Tech - DVLA",
         "title": "Senior Software Engineer",
-        "years": "August 2020 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "November 2020 - Present",
+        "description": "In Made Tech/DVLA blended teams on the Drivers First Provisional and Application Renewals projects.",
+        "skills": "Tech: Ruby on Rails, React, NodeJS (shifting to Typescript), AWS, Serverless, Docker, K8s, Drone, PagerDuty, Instana, Report Portal, SonarQube"
+      },
+      {
+        "company": "Made Tech - Ministry of Justice",
+        "title": "Software Engineer",
+        "years": "August 2020 - November 2020",
+        "description": "Alongside the MoJ and other contractors as part of the Prison Transformation Program.",
+        "skills": "Tech: AWS, Terraform, Grafana"
       },
       {
         "company": "MBDA",
         "title": "Software Project Lead",
         "years": "September 2017 - August 2020",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Many projects and positions ranging from Software Engineer to SPL (tech lead).",
+        "skills": "Tech: C++, Python, C# (Unity), Tensorflow, Robot, Jenkins"
+      },
+      {
+        "company": "Zone",
+        "title": "IT Engineer",
+        "years": "September 2017 - August 2020",
+        "description": ""
       }
     ],
     "skills": [
